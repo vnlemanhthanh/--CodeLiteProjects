@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\Basic\\main.c",
+  "directory": "C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\Basic",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\Basic\\main.c -o C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\Basic\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
   "file": "C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\MyName\\main.c",
   "directory": "C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\MyName",
   "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\MyName\\main.c -o C:\\Users\\vnlemanhthanh\\CodeLiteProjects\\c-programming-for-beginners-\\MyName\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\11\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
