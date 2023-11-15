@@ -5,7 +5,7 @@
   <Project Name="OurfirstProgram" Path="OurfirstProgram/OurfirstProgram.project" Active="No"/>
   <Project Name="MyName" Path="MyName/MyName.project" Active="No"/>
   <Project Name="Basic" Path="Basic/Basic.project" Active="No"/>
-  <Project Name="Variable" Path="Variable/Variable.project" Active="Yes"/>
+  <Project Name="VariablesAndDataTypes" Path="VariablesAndDataTypes/VariablesAndDataTypes.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -14,7 +14,7 @@
       <Project Name="OurfirstProgram" ConfigName="Debug"/>
       <Project Name="MyName" ConfigName="Debug"/>
       <Project Name="Basic" ConfigName="Debug"/>
-      <Project Name="Variable" ConfigName="Debug"/>
+      <Project Name="VariablesAndDataTypes" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -23,7 +23,7 @@
       <Project Name="OurfirstProgram" ConfigName="Release"/>
       <Project Name="MyName" ConfigName="Release"/>
       <Project Name="Basic" ConfigName="Release"/>
-      <Project Name="Variable" ConfigName="Release"/>
+      <Project Name="VariablesAndDataTypes" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
